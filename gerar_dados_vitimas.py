@@ -6,7 +6,7 @@ from collections import Counter
 
 # === Configurações fixas ===
 from pathlib import Path
-BASE_FOLDER = Path("../datasets/vict/10v")
+BASE_FOLDER = Path("datasets/vict/10v")
 OUTPUT_CSV = BASE_FOLDER / "data.csv"
 
 
